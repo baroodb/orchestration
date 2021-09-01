@@ -5,5 +5,6 @@ app = FastAPI()
 
 @app.get('/')
 def read_root():
-    return {'Response': 'Hello and Welcome here to Madrid to discuss with us today, we gonna have a lot of fun.'}
+    return {'Response': 'Real Madrid could not  sign MBappe this summer!'}
+
 
